@@ -191,7 +191,7 @@ Reference nUmber:212223100043
   Lcd_string(&lcd," CYBER SECURITY");
 
   Lcd_cursor(&lcd, 1,0);
-  Lcd_string(&lcd," RASIKA.M");
+  Lcd_string(&lcd," RAGUL RAAJAN.T");
 ```
 
 
